@@ -2,4 +2,4 @@
 
 ## Hello :)
 
-<img src="https://mundizzle.github.io/mundizzle/mind-blown.gif" alt="Mind Blown">
+<img src="https://mundizzle.github.io/mundizzle/banner.jpg" alt="Mind Blown">
