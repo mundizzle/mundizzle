@@ -4,4 +4,4 @@
 
 ## Hello :)
 
-![mind blown](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![mind blown](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
