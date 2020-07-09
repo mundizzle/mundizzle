@@ -4,4 +4,4 @@
 
 ## Hello :)
 
-![mind blown](https://mundizzle.github.io/mundizzle/mind-blown.gif)
+<img src="https://mundizzle.github.io/mundizzle/mind-blown.gif" alt="mind blown"/>
