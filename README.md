@@ -1,3 +1,3 @@
 # Hello! :)
 
-<img src="https://github.com/user-attachments/assets/3fea9e57-8a07-4181-8ae9-0a78d1df74d1" alt="Mind Blown">
+![GIerd-meet-background-light](https://github.com/user-attachments/assets/c8300fa4-ff8e-4e5f-9d04-369f2d22f2bf)
